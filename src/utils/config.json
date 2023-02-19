@@ -1,9 +1,8 @@
 {
-    "DISCORD_BOT_TOKEN": "my-discord-bot-token",
-    "DISCORD_BOT_CLIENT_ID": "my-discord-bot-app-id",
+    "DISCORD_BOT_TOKEN": "MTA3NjY3MTM1ODQ5NjQxOTg4Mg.GSH-IK.QyYz6onrFhpnmMCZEc5D3ojhfqdJ50LncCJEag",
+    "DISCORD_BOT_CLIENT_ID": "1076671358496419882",
     "OPENAI_API_KEY": "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",
     "ALLOWED_SERVER_IDS": [
-        "my-server-id-1",
-        "my-server-id-2"
+        "1061476869867851816",
     ]
 }
