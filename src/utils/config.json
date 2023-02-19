@@ -1,1 +1,9 @@
-
+{
+    "DISCORD_BOT_TOKEN": "my-discord-bot-token",
+    "DISCORD_BOT_CLIENT_ID": "my-discord-bot-app-id",
+    "OPENAI_API_KEY": "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",
+    "ALLOWED_SERVER_IDS": [
+        "my-server-id-1",
+        "my-server-id-2"
+    ]
+}
